@@ -57,6 +57,7 @@
     <module>runtime</module>
     <module>deployment</module>
     <module>integration-test</module>
+    <module>integration-test2</module>
     <module>docs</module>
   </modules>
 
